@@ -25,3 +25,4 @@ class BinaryTree {
 
 	}
 }
+'use strict';
